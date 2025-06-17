@@ -107,7 +107,7 @@ if (isset($_POST['proses'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Penilaian Mahasiswa_202332002_Nabila Nur Ramadhan</title>
+    <title>Penilaian Mahasiswa_202332008_Renafinanda AN</title>
     
     <!-- Import Bootstrap biar tampilan lebih rapi dan kekinian -->
     <link rel="stylesheet"
